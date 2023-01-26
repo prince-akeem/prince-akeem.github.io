@@ -15,17 +15,17 @@ website: https://github.com/prince-akeem
 darkmode: false
 
 # Social links
-twitter_username: Foo
+twitter_username: 
 github_username:  princeakeem
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 instagram_username: prince_a_akeem
-linkedin_username: Foo
+linkedin_username: 
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: Foo
+youtube_username: 
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -86,20 +86,6 @@ content:
         description: | # this will include new lines to allow paragraphs
             Most modern company needs developers and Amazon is no exception. Amazon was founded on july 5, 1944 and has evoled from just an e-commerce or retailer, Amazon is multinational technology company that offers everything from A to Z.
   
-  - title: More Experience # Title for the section
-    layout: list # Type of content section (list/text)
-      content:
-        - layout: left
-          title: GTA SAMP Co-Owner
-          link: Discontined
-          # link_text: boringcompany.com
-          sub_title: Coder/Lead Developer
-          caption: Augest 2022 - Present
-          quote: > 
-            Grand Theft Auto: San Andreas Multi Player server Co-Owned with a friend while in college.
-          description: | # this will include new lines to allow paragraphs
-              Server was coded by my self and the other owner from the ground up, hosted by us and managed by two other admins we hired. The server had alot of attention and players for about six months before it was discontiuned due to development time being restricted.
-
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
