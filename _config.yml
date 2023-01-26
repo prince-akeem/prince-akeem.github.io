@@ -85,7 +85,7 @@ content:
           We've had three big ideas at Amazon that we've stuck with for 18 years, and thy're the reason we're successful: Put the customer first. Invent. And be patient.(Jeff Bezos)
         description: | # this will include new lines to allow paragraphs
             Most modern company needs developers and Amazon is no exception. Amazon was founded on july 5, 1944 and has evoled from just an e-commerce or retailer, Amazon is multinational technology company that offers everything from A to Z.
-
+  - title: More Experience # Title for the section
     layout: list # Type of content section (list/text)
       content:
         - layout: left
