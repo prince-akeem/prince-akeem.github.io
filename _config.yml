@@ -15,25 +15,25 @@ website: https://github.com/prince-akeem
 darkmode: false
 
 # Social links
-twitter_username: 
-github_username:  princeakeem
+# twitter_username: 
+github_username:  prince-akeem
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 instagram_username: prince_a_akeem
-linkedin_username: 
+linkedin_username: akeem-piggott-6201b6157
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: 
+# youtube_username: 
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,17 +48,34 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Akeem and I'm a Program Developer. I also have experience making software, web apps and multipler game servers. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Akeem and I'm currently a Program Developer. I also have experience making software, web apps and multipler game servers. I have worked at a number of companies both inside and outside of the US gaining teamwork, communication and leadership skills.
 
-  I am most skilled in: <mark>Rails</mark>, <mark>C++</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Web Development(Ruby On Rails)</mark>, <mark>Windows Development(C, C++, C# and soon Carbon)</mark> and <mark>Microsoft Office(Developer level)</mark>
 
 content:
-  - title: Projects # Title for the section
+- title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
+        title: Super Smart Discord Bot(SSDB)
         link: github.com/prince-akeem
+        link_text: Not yet added to github
+        additional_links:
+          # - title:  C# Discord Bot
+          #   icon: fab fa-github
+          #   url: github.com/prince-akeem
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          This application is a smart discord bot that shows off my skills.
+        description: | # this will include new lines to allow paragraphs
+          The application is designed to interact with Open IA (and maybe other AI services in the future) to allow me to access chatGPT from my phone with friends. A quick way to settle discussions and get information.
+
+    content:
+      - layout: top-middle
+        title: Rails Finance Tracker project
+        link: github.com/prince-akeem/rails_finance_app
         # link_text: Project Website
         additional_links:
           - title:  Rails secret application
@@ -68,9 +85,9 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          This is probably one of the greatest apps I ever created, It calls upon an API for stock data and that stock can be added to a porfolio.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>Rails</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          I started this project as a way if learning <mark>Ruby On Rails</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. The application was even able to get stock data for adding stocks to your porfolio.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -80,11 +97,11 @@ content:
         link: Amazon.com
         # link_text: boringcompany.com
         sub_title: ICQA Program Developer
-        caption: Augest 2022 - Present
+        caption: October 2022 - Present
         quote: > 
           We've had three big ideas at Amazon that we've stuck with for 18 years, and thy're the reason we're successful: Put the customer first. Invent. And be patient.(Jeff Bezos)
         description: | # this will include new lines to allow paragraphs
-            Most modern company needs developers and Amazon is no exception. Amazon was founded on july 5, 1944 and has evoled from just an e-commerce or retailer, Amazon is multinational technology company that offers everything from A to Z.
+            Most modern company needs developers and Amazon is no exception. At Amazon I am responsible for developing a Ruby on Rails application (full stack development) internal website. Making a windows application for presenting data to the operation team which adided in effective decision making.
   
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -106,11 +123,9 @@ content:
       Alongside my interests in software engineering some of my other interests and hobbies are:
       - Soccer
       - Gaming
-      - Painting
-      - [Live to the fullest](https://www.youtube.com/watch?v=2S0QhGGO1gQ)
+      - Socializing
 
-      Look at this cool image  
-      ![Cool](https://thumbs.dreamstime.com/z/cool-word-car-frost-28138481.jpg "Cool")
+      A few of my certificates(need to add the others)  
       ![Java Cred](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/67932561)
       
 
