@@ -53,7 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>Web Development(Ruby On Rails)</mark>, <mark>Windows Development(C, C++, C# and soon Carbon)</mark> and <mark>Microsoft Office(Developer level)</mark>
 
 content:
-- title: Projects # Title for the section
+  - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
