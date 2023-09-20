@@ -72,8 +72,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           The application is designed to interact with Open IA (and maybe other AI services in the future) to allow me to access chatGPT from my phone with friends. A quick way to settle discussions and get information.
 
-    content:
-      - layout: top-middle
         title: Rails Finance Tracker project
         link: github.com/prince-akeem/rails_finance_app
         # link_text: Project Website
